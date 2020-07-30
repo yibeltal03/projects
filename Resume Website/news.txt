@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> My Resume Website</title>
+
+<link rel= "stylesheet" type="text/css" href= "style.css">
+
+
+</head>
+
+
+  
+
+
+
+<body>
+<div class ="place">
+Im in a class
+</div>
+
+</body>
+
+
+</html>
